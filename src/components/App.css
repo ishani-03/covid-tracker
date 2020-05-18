@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    padding: 20px 60px;
+    background-color: #e6fff5;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
